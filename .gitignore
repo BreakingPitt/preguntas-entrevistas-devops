@@ -1,0 +1,13 @@
+# Ignore Vim swap related files
+*.swp
+*.swo
+
+# JetBrains IDE related files
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/runConfigurations/
