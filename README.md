@@ -20,6 +20,7 @@ Ya sea que estés evaluando la experiencia y el conocimiento de un candidato o p
   - [Introducción](#introduccion)
     - [¿Qué significa el termino DevOps?](#qué-es-devops)
     - [Principios clave de DevOps](#principios-clave-de-devops)
+    - [Fases del ciclo de vida de DevOps](#fases-del-ciclo-de-vida-de-devops)
 
 ### Introducción a DevOps
 
@@ -45,6 +46,20 @@ Entre los principios en los que fundamenta la filosofia **DevOps** se encuentran
 
 Estos principios son fundamentales para el éxito de **DevOps** y contribuyen a la creación de un entorno que favorece la entrega rápida, confiable y continua de software de alta calidad.
 
+### Fases del ciclo de vida de DevOps
+
+El ciclo de vida de **DevOps** comprende varias fases que abarcan desde la planificación y desarrollo hasta la implementación y operación continua del software. A continuación se indican las fases comunes del ciclo de vida de **DevOps**:
+
+- Planificación (Planning).
+- Desarrollo (Development).
+- Pruebas (Testing).
+- Despliegue (Deployment).
+- Operación y monitorización (Feedback).
+- Retroalimentación (Feedback).
+- Optimización (Optimization).
+- Entrega continua y Despliegue continuo (Continuous Delivery and Continuous Deployment).
+
+Las fases que hemos mostrado en esta sección son iterativas y se integran en el ciclo continuo de desarrollo, prueba e implementación. La automatización, la colaboración y la retroalimentación continua son principios fundamentales en cada etapa del ciclo de vida de **DevOps**.
 
 ## Colaboración
 
