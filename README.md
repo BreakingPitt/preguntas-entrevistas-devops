@@ -19,6 +19,7 @@ Ya sea que estés evaluando la experiencia y el conocimiento de un candidato o p
 - [Índice](#índice)
   - [Introducción](#introduccion)
     - [¿Qué significa el termino DevOps?](#qué-es-devops)
+    - [¿Por qué necesitamos DevOps?](#porqué-necesitamos-devops)
     - [Principios clave de DevOps](#principios-clave-de-devops)
     - [Fases del ciclo de vida de DevOps](#fases-del-ciclo-de-vida-de-devops)
 
@@ -29,6 +30,16 @@ Ya sea que estés evaluando la experiencia y el conocimiento de un candidato o p
 **DevOps** es un movimiento cultural o filosofía que busca mejorar la colaboración y eficiencia entre los equipos de desarrollo (**Dev***) y operaciones (**Ops**) durante el ciclo de vida del desarrollo de software y se centra en el proceso de entrega continua, utilizando prácticas como la automatización, colaboración estrecha y retroalimentación constante.
 
 En términos más sencillos, la filosofía **DevOps** promueve la unión de los equipos y la optimización de los procesos de desarrollo y despliegue de software, por lo que las empresas pueden lograr ciclos de desarrollo más rápidos, software de mejor calidad y una colaboración más efectiva entre equipos.
+
+### ¿Por qué necesitamos DevOps?
+
+A día de hoy, las empresas están optando por entregar pequeños conjuntos de mejoras y nuevas funcionalidades a sus clientes en lugar de entregar grandes conjuntos de funcionalidades. Mediante esta estrategia se obtienen varios beneficios, entre ellos una mayour calidad del software y una retroalimentación más rápida de los clientes.
+
+Con la adopción de la filosofía **DevOps**, las empresas pueden realizar miles de implementaciones en un solo día, manteniendo un alto estándar de confiabilidad, seguridad y estabilidad.
+
+**DevOps** contribuye a satisfacer todas estas necesidades, buscando una entrega de software fluida.
+
+Grandes empresas como Amazon, Google, Telefónica, BBVA u OpenBank han adoptado la filosofía **DevOps**, alcanzando niveles de rendimiento y calidad muy elevados.
 
 ### Principios clave de DevOps
  
