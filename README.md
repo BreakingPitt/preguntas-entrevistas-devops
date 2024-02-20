@@ -25,13 +25,13 @@ Ya sea que estés evaluando la experiencia y el conocimiento de un candidato o p
 
 ### Introducción a DevOps
 
-### ¿Qué significa el termino DevOps?
+#### ¿Qué significa el termino DevOps?
 
 **DevOps** es un movimiento cultural o filosofía que busca mejorar la colaboración y eficiencia entre los equipos de desarrollo (**Dev***) y operaciones (**Ops**) durante el ciclo de vida del desarrollo de software y se centra en el proceso de entrega continua, utilizando prácticas como la automatización, colaboración estrecha y retroalimentación constante.
 
 En términos más sencillos, la filosofía **DevOps** promueve la unión de los equipos y la optimización de los procesos de desarrollo y despliegue de software, por lo que las empresas pueden lograr ciclos de desarrollo más rápidos, software de mejor calidad y una colaboración más efectiva entre equipos.
 
-### ¿Por qué necesitamos DevOps?
+#### ¿Por qué necesitamos DevOps?
 
 A día de hoy, las empresas están optando por entregar pequeños conjuntos de mejoras y nuevas funcionalidades a sus clientes en lugar de entregar grandes conjuntos de funcionalidades. Mediante esta estrategia se obtienen varios beneficios, entre ellos una mayour calidad del software y una retroalimentación más rápida de los clientes.
 
@@ -41,7 +41,7 @@ Con la adopción de la filosofía **DevOps**, las empresas pueden realizar miles
 
 Grandes empresas como Amazon, Google, Telefónica, BBVA u OpenBank han adoptado la filosofía **DevOps**, alcanzando niveles de rendimiento y calidad muy elevados.
 
-### Principios clave de DevOps
+#### Principios clave de DevOps
  
 La cultura **DevOps** se fundamenta en varios principios y aspectos clave que tienen como objetivo principal, mejorar la colaboración y la eficiencia tanto en el desarrollo de software como en las operaciones de infrastrcutura que se engloban dentro de las tecnologías de la información. 
 
@@ -57,7 +57,7 @@ Entre los principios en los que fundamenta la filosofia **DevOps** se encuentran
 
 Estos principios son fundamentales para el éxito de **DevOps** y contribuyen a la creación de un entorno que favorece la entrega rápida, confiable y continua de software de alta calidad.
 
-### Fases del ciclo de vida de DevOps
+#### Fases del ciclo de vida de DevOps
 
 El ciclo de vida de **DevOps** comprende varias fases que abarcan desde la planificación y desarrollo hasta la implementación y operación continua del software. A continuación se indican las fases comunes del ciclo de vida de **DevOps**:
 
